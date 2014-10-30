@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- License Agreement at http://iconmonstr.com/license/ -->
+
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="512px" height="512px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+<path id="brightness-9-icon" d="M256,90c44.342,0,86.027,17.266,117.381,48.619S422,211.66,422,256s-17.266,86.027-48.619,117.379
+	C342.027,404.732,300.342,422,256,422V90z M256,50C142.23,50,50,142.229,50,256s92.23,206,206,206c113.771,0,206-92.229,206-206
+	S369.771,50,256,50z"/>
+</svg>

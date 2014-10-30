@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<!-- The icon can be used freely in both personal and commercial projects with no attribution required, but always appreciated. 
+You may NOT sub-license, resell, rent, redistribute or otherwise transfer the icon without express written permission from iconmonstr.com -->
+
+
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+
+	 width="512px" height="512px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+
+<path id="fullscreen-5-icon" d="M50,96.722v318.557h412V96.722H50z M178.023,372.673H92.646v-85.377l20.94,20.904l34.195-34.197
+
+	l43.534,43.533l-34.196,34.195L178.023,372.673z M147.781,237.998l-34.196-34.195l-20.939,20.903v-85.377h85.376l-20.903,20.939
+
+	l34.197,34.197L147.781,237.998z M419.432,372.673h-85.377l20.904-20.939l-33.496-33.496l43.533-43.533l33.496,33.496l20.939-20.904
+
+	V372.673z M419.432,224.705l-20.938-20.903l-33.496,33.496l-43.534-43.534l33.496-33.495l-20.903-20.939h85.376V224.705z"/>
+
+</svg>
+
